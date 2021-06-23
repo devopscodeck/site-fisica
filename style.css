@@ -1,0 +1,40 @@
+body {
+/*	background: #CCCCCC;*/
+}
+
+/*Quando usamos um identificador, usamos a # , exeplo: #nameidentifider*/
+#fisicacomputacional{
+	width: 100%;	
+}
+
+h1 {
+	text-align: center; 
+	background:#CCCCCC;
+}
+
+
+p {
+/*	text-align: center; */
+	background: ;	
+}
+
+/*Para criar uma marcacao especifica para apenas um trecho do codigo, usamos o parametro id="nomequalquer"
+ declaramos aqui no .css iniciando sempre com o "#"no inicio, como abaixo */
+#missao {
+	font-size: 20px   
+}
+
+/*"Pega a tag em dentro do href a   representacao de cores red, #FF0000 rgb(255,0,0)'*/
+em a {
+	color: blue;
+}
+
+/* Para nos referirmos a uma classe, definimos o nome da classe com o .nameclasse ,assim a alteração é feito em todos
+ * os intens que estao marcado com essa classe, no exemplo abaixo, chamamos essa classe de itens, logo, .itens{} */
+.itens {
+	font-style: italic;
+}
+
+.Fontes{
+	background: #FFFFFF;
+}
